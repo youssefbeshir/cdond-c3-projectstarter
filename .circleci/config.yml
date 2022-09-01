@@ -77,7 +77,6 @@ jobs:
           name: test front-end
           command: |
             cd frontend
-            npm init
             npm install
             npm run test
 
