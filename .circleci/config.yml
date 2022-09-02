@@ -61,9 +61,9 @@ commands:
               SUCCESS=$(curl --insecure https://kvdb.io/${KVDB_BUCKET}/migration_ << parameters.Workflow_ID >>)
               if(( $SUCCESS==1 )); 
               then
-              cd ~/project/backend
-              npm install
-              npm run migration:revert
+                cd ~/project/backend
+                npm install
+                npm run migration:revert
               fi
             
 jobs:
