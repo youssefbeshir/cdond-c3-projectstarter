@@ -248,7 +248,7 @@ jobs:
 
 #   deploy-frontend:
 #     docker:
-#       # Docker image here that supports AWS CLI
+#       # Docker image here that supports AWS CLIn
 #     steps:
 #       # Checkout code from git
 #       - run:
