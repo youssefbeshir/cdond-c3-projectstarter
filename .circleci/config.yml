@@ -383,7 +383,7 @@ jobs:
 
 # cleanup:
 #     docker:
-#       # Docker image here
+#       # Docker image herec
 #     steps:
 #       # Checkout code from git
 #       - run:
