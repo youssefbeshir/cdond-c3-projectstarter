@@ -361,7 +361,7 @@ jobs:
       #     command: |
       #       # your code herejg
       # - run:
-      #     name: Frontend smoke test.
+      #     name: Frontend smoke test.n
       #     command: |
       #       # your code here
       # Here's where you will add some code to rollback on failure  
